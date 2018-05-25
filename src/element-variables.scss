@@ -1,0 +1,12 @@
+
+/*https://github.com/ElementUI/theme-chalk/blob/master/src/common/var.scss*/
+/* 改变主题色变量 */
+// $--color-primary: teal;
+$--border-color-base: #ccc ;
+$--border-color-light: #ddd;
+$--border-color-lighter: #ccc;
+// $--border-color-extra-light: #f2f6fc;
+/* 改变 icon 字体路径变量，必需 */
+$--font-path: '~element-ui/lib/theme-chalk/fonts';
+
+@import "~element-ui/packages/theme-chalk/src/index";

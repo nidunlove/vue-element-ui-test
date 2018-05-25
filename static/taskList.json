@@ -1,0 +1,15 @@
+{
+  "data": [
+  {
+    "taskCode": "000001",
+    "status": "LOADING"
+  },
+  {
+    "taskCode": "000002",
+    "status": "UNSTART"
+  },
+  {
+    "taskCode": "000003",
+    "status": "FINISHED"
+  }]
+}
